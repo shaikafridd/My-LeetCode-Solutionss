@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0443-string-compression) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0087-scramble-string) |
 | [1025-divisor-game](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
