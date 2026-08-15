@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0075-sort-colors) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0035-search-insert-position) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shaikafridd/My-LeetCode-Solutionss/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
